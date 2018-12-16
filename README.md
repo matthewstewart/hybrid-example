@@ -31,3 +31,12 @@ An example within Express middleware of:
 ```
 node example3
 ```
+
+## [Example 4](https://github.com/matthewstewart/hybrid-example/blob/master/example4.js)
+An example within Express middleware of:  
+- Mock JSON form data for a Lab record that has already been published via Dat and has a Dat key  
+- Retrieval of the Dat using the records Dat key  
+- Returning the result in JSON API response
+```
+node example4
+```
